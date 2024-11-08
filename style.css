@@ -44,7 +44,7 @@ nav{
 }
 #profile{
     position: relative; 
-  background-color:indigo ;
+  background-color: #58867f ;
     height: 100vh;
     display: flex;
     text-align: center;
@@ -115,8 +115,7 @@ button:hover{
 }
 #education{
     padding: 50px;
-    background-color: #f4f4f4;
-   
+    background-color: #f9eded;
     background-size: cover;
 
 }
@@ -124,16 +123,15 @@ button:hover{
     text-align: center;
     font-size: 2.5rem;
     margin-bottom: 20px;
-    color: #333;
+    color: #000000;
 }
 .education-card{
-    background:#ddd;
+    background:#f8f8f8;
     border: 2px solid#ddd;
     padding: 20px;
     margin: 20px 0;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    backdrop-filter: blur(10px);
+    box-shadow: 10px 10px 20px black
 }
 .education-card h3{
     font-size: 1.8rem;
@@ -148,7 +146,7 @@ button:hover{
     color:#000;
 }
 #contact{
-    background-color: #f9f9f9;
+    background-color: #f9f2f2;
     padding: 50px 0;
     text-align: center;
 }
@@ -166,7 +164,7 @@ button:hover{
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
-    background-color: white;
+    background-color: rgb(203, 215, 226);
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     border-radius: 10px;
 }
